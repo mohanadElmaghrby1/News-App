@@ -1,0 +1,10 @@
+<resources>
+    <!--the main app story text size-->
+    <dimen name="story_text_size">24sp</dimen>
+    <!--the news list item -->
+    <dimen name="news_title_text_size">20sp</dimen>
+    <dimen name="news_section_text_size">14sp</dimen>
+    <!-- the news list item padding-->
+    <dimen name="list_item_padding">14dp</dimen>
+
+</resources>

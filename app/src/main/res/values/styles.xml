@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!--the main app stories style-->
+    <style name="StoryStyle">
+        <item name="android:textSize">@dimen/story_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/story_text_color</item>
+    </style>
+
+    <!--style the list item-->
+    <!--style news title-->
+    <style name="NewsTitleStyle">
+        <item name="android:paddingLeft">@dimen/list_item_padding</item>
+        <item name="android:textSize">@dimen/news_title_text_size</item>
+    </style>
+
+    <!--style news section-->
+    <style name="NewSectionStyle">
+        <item name="android:paddingLeft">@dimen/list_item_padding</item>
+        <item name="android:textSize">@dimen/news_section_text_size</item>
+    </style>
+</resources>

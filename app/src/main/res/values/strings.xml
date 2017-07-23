@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>
+
+    <!--the main screen app stories-->
+    <string name="story_politics">Politics</string>
+    <string name="story_business">Business</string>
+    <string name="story_fashion">Fashion</string>
+    <string name="story_sport">Sport</string>
+    <!--empty state no internet connection-->
+    <string name="no_internet_connection">no internet connection</string>
+    <!--empty state no internet connection-->
+    <string name="no_data_found">no data found</string>
+</resources>

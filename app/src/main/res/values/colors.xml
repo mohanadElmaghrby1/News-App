@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--tha story text color-->
+    <color name="story_text_color">#00000f</color>
+    <!--main app news stories background colors -->
+    <color name="politics_story_color">#ffea29</color>
+    <color name="business_story_color">#fa52a6</color>
+    <color name="fashion_story_color">#4253f1</color>
+    <color name="sport_story_color">#09d48d</color>
+
+</resources>
